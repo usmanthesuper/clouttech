@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Nav from "./Nav";
-import NavSearch from "./NavSearch";
 
 const DefaultHeader = ({ singleMenu, dark }) => {
   return (
